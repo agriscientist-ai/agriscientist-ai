@@ -1,5 +1,5 @@
 <div align="center">
 
-# agriscientist-ai
+# Agriscientist AI
 
 </div>
